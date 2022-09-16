@@ -1,0 +1,13 @@
+07/09/2022 10:52 Sophos
+https://0.0.0.0:0/webconsole/webpages/index.jsp#42885 7/9
+Internet Access Credentials
+Username : wifi000000
+Password : aaaaaa
+Expire Date : 07-09-2023
+Validity : 365 days
+-----------------------------------------
+Internet Access Credentials
+Username : wifi0000
+Password : 000000
+Expire Date : 07-09-2023
+Validity : 365 days
